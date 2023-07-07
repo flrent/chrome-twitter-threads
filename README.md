@@ -1,4 +1,4 @@
-# Twitter Browser Extension
+# Chrome extension for finding twitter profile on threads.net
 
 This is a Chrome extension that displays a Open in Threads.net link on Twitter profiles pages.
 
